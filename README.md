@@ -259,7 +259,6 @@ npm start
 
 ## ❤️ Community
 
-Join the SuddenConnect community on [Discord](https://discord.gg/dQUh6SY9Uk) and [GitHub Discussions](https://github.com/HXQLabs/SuddenConnect/discussions).
 
 Feel free to ask questions, report bugs, participate in discussions, share ideas, request features, or showcase your projects. We'd love to hear from you!
 
@@ -276,7 +275,7 @@ There are many ways you can contribute to SuddenConnect:
 - ⭐ **Star the repository** to support the project
 - 🐛 Report bugs or submit feature requests via [GitHub Issues](https://github.com/HXQLabs/SuddenConnect/issues)
 - 📖 Review and improve documentation
-- 💬 Talk about SuddenConnect in your community and [let us know](https://discord.gg/dQUh6SY9Uk)
+- 💬 Talk about SuddenConnect in your community 
 - 👍 Show your support by upvoting popular feature requests
 
 ### Contribution Guidelines
@@ -285,15 +284,13 @@ There are many ways you can contribute to SuddenConnect:
 - Use small, focused pull requests with descriptive titles and testing notes
 - Maintain TypeScript types and follow existing code style
 - Run linters and formatters before committing
-- Join our [Discord](https://discord.gg/dQUh6SY9Uk) to coordinate work and get faster PR reviews
+
 
 > **Important:** Signing up and completing the brief onboarding in the app is required for all contributors. Maintainers will use registered accounts to verify changes.
 
 ## 📄 License
 
 This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
-
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ### Acknowledgments
 
