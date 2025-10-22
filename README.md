@@ -3,17 +3,7 @@
 <p align="center"><b>Professional real-time video chat with preference-based matching</b></p>
 
 <p align="center">
-  <a href="https://discord.gg/dQUh6SY9Uk">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white&style=for-the-badge" />
-  </a>
   <img alt="License" src="https://img.shields.io/badge/license-Apache%202.0-blue?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/HXQLabs/SuddenConnect"><b>GitHub</b></a> •
-  <a href="https://github.com/HXQLabs/SuddenConnect/releases"><b>Releases</b></a> •
-  <a href="https://discord.gg/dQUh6SY9Uk"><b>Discord</b></a> •
-  <a href="#deployment"><b>Deployment Guide</b></a>
 </p>
 
 Meet **SuddenConnect**, a professional real-time video chat application that pairs people based on their preferences. Built with WebRTC for secure, low-latency peer-to-peer media and Socket.IO for reliable signaling—delivering a modern experience for networking and collaboration. 🎥
@@ -54,7 +44,7 @@ Getting started with SuddenConnect is simple:
 ### 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/HXQLabs/SuddenConnect.git
+git clone https://github.com/Kunalchandra007/SuddenConnect.git
 cd SuddenConnect
 ```
 
@@ -273,7 +263,7 @@ To disclose any security issues, please contact the maintainers through Discord 
 There are many ways you can contribute to SuddenConnect:
 
 - ⭐ **Star the repository** to support the project
-- 🐛 Report bugs or submit feature requests via [GitHub Issues](https://github.com/HXQLabs/SuddenConnect/issues)
+- 🐛 Report bugs or submit feature requests via [GitHub Issues](https://github.com/Kunalchandra007/SuddenConnect/issues)
 - 📖 Review and improve documentation
 - 💬 Talk about SuddenConnect in your community 
 - 👍 Show your support by upvoting popular feature requests
