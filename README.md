@@ -1,9 +1,5 @@
 # SuddenConnect
 
-<p align="center">
-  <img src="assets/header.png" alt="SuddenConnect Header" width="100%">
-</p>
-
 <p align="center"><b>Professional real-time video chat with preference-based matching</b></p>
 
 <p align="center">
