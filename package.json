@@ -1,0 +1,13 @@
+{
+  "name": "suddenconnect",
+  "version": "1.0.0",
+  "description": "Professional real-time video chat with preference-based matching",
+  "scripts": {
+    "start": "cd backend && npm start",
+    "build": "cd backend && npm run build",
+    "install": "cd backend && npm install"
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}
