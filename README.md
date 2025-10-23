@@ -295,3 +295,4 @@ Thanks to the open-source projects that made SuddenConnect possible:
 - [Lucide React](https://lucide.dev/) - Icon library
 
 <br />
+## Made with ❤️
