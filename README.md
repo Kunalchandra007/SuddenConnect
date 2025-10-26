@@ -2,9 +2,7 @@
 
 <p align="center"><b>Professional real-time video chat with preference-based matching</b></p>
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/badge/license-Apache%202.0-blue?style=for-the-badge" />
-</p>
+
 
 Meet **SuddenConnect**, a professional real-time video chat application that pairs people based on their preferences. Built with WebRTC for secure, low-latency peer-to-peer media and Socket.IO for reliable signaling—delivering a modern experience for networking and collaboration. 🎥
 
